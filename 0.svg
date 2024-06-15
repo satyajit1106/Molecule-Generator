@@ -1,0 +1,16 @@
+<svg id="molecule_icon" viewBox="-336.23235232127985 -336.23235232127985 672.4647046425597 672.4647046425597" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<g id="H">
+			<circle cx="0" cy="0" r="100.0" fill="#FFFFFF" stroke="#555555" stroke-width="10.0" />
+			<path d="M70,-70 A90.0,90.0 0, 1, 1 -70,70 M-70,70 A120.0,120.0 0, 0,0 70, -70 Z" fill="#555555" stroke-width="0" />
+		</g>
+		<g id="Cl">
+			<circle cx="0" cy="0" r="100.0" fill="#1FF01F" stroke="#0a4f0a" stroke-width="10.0" />
+			<path d="M70,-70 A90.0,90.0 0, 1, 1 -70,70 M-70,70 A120.0,120.0 0, 0,0 70, -70 Z" fill="#0a4f0a" stroke-width="0" />
+		</g>
+	</defs>
+	<line stroke="#323232" stroke-linecap="round" stroke-width="45.0" x1="-136.23235232127985" y1="-3.33662008497616e-14" x2="136.23235232127985" y2="3.33662008497616e-14" />
+	<line stroke="#979797" stroke-linecap="round" stroke-width="25.0" x1="-136.23235232127985" y1="-3.33662008497616e-14" x2="136.23235232127985" y2="3.33662008497616e-14" />
+	<use href="#H" xlink:href="#H" transform="translate(136.23235232127985 3.33662008497616e-14)" />
+	<use href="#Cl" xlink:href="#Cl" transform="translate(-136.23235232127985 -3.33662008497616e-14)" />
+</svg>
