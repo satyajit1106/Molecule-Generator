@@ -17,6 +17,10 @@ Welcome to the Molecule Icon Generator! This application allows you to create cu
 - Cirpy
 - Requests
 
+| Streamlit | RDKit | CIRpy | Python | Git |
+|-----------|-------|-------|--------|-----|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Streamlit" width="55" height="55"/> | <img src="https://cdn-icons-png.flaticon.com/512/682/682172.png" title="RDKit" alt="RDKit" width="55" height="55"/> | <img src="https://cdn-icons-png.flaticon.com/512/6523/6523724.png" title="CIRpy" alt="CIRpy" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> |
+
 ## Installation
 
 To set up the project locally, follow these steps:
