@@ -50,4 +50,4 @@ To set up the project locally, follow these steps:
 To run the Molecule Icon Generator application locally, use the following command:
 
 ```bash
-streamlit run app.py
+ python -m streamlit run streamlit-app.py
