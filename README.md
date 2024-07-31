@@ -1,10 +1,10 @@
 # Molecule Icon Generator
 
-Welcome to the Molecule Icon Generator! This application allows you to create customizable molecular icons using SMILES notation, molecule files, and other chemical identifiers. This project leverages Streamlit for the interactive web app interface and integrates the Google Gemini API to fetch and analyze molecular data.
+Welcome to the Molecule Icon Generator! This application allows you to create customizable molecular icons using SMILES notation, molecule files, and other chemical identifiers. This project leverages Streamlit for the interactive web app interface to fetch and analyze molecular data.
 
 ## Features
 
-- **Multiple Input Types:** Supports molecule input via name, SMILES, CAS number, InChI, InChIKey, and file uploads (SDF, MOL2, PDB).
+- **Multiple Input Types:** Supports molecule input via name, SMILES, CAS number.
 - **Customization:** Customize molecular icons with various colors, sizes, and emoji representations.
 - **Integration with Google Gemini API:** Leverages the API to fetch and analyze molecular data.
 - **Export Options:** Generate and download molecule icons in various formats.
